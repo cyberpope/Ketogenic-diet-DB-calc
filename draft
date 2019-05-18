@@ -1,0 +1,14 @@
+Database:
+Products (name, protein, fat, fibre, carbs, price per pack(PPP), grams per pack(GPP))
+Each day separate table
+Altering tables
+
+Macro calc (depending on lifestyle)
+
+User info (sex, age, weight, height)
+
+Calculate price per meal, choose products, enter gram values, return nutr info and price
+
+Desired protein intake
+
+
